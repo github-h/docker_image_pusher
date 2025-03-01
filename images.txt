@@ -7,3 +7,4 @@
 
 --platform=linux/arm64 tailscale/tailscale
 --platform=linux/arm64 fredliang/derper
+--platform=linux/amd64 fredliang/derper
